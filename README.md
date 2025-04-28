@@ -10,10 +10,10 @@ The entire workflow is designed to be reproducible in Google Colab, with all dep
 ---
 
 ## 👩‍💻 Team Members
-| Name            | UID          |
-|-----------------|--------------|
-| Apoorva Jindal  | 21BCS10776    |
-| Riya Kamboj     | 21BCS10870    |
+| Name            |      
+|-----------------|
+| Apoorva Jindal  |  
+| Riya Kamboj     |  
 
 ---
 
